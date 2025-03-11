@@ -1,6 +1,6 @@
 import React from "react";
 import { Element } from "react-scroll";
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Features from "./components/Features";
